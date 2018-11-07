@@ -1,0 +1,14 @@
+uuid: a5860f2b-1272-4410-b279-210d9e6e1ce5
+name: 'React Club'
+mail: skippednote@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
